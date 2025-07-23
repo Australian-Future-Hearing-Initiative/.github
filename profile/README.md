@@ -1,6 +1,6 @@
-# AFHI Web Demos – Known Issues, Feature Roadmap, and Version History
+# Australian Future Hearing Initiative
 
-This repository serves as the **central hub** for the Australian Future Hearing Initiative (AFHI) web-based hearing tests. It contains a summary of available test deployments, known issues, planned features, and a detailed version history.
+This repository serves as the **central hub** for code released as part of the Australian Future Hearing Initiative (AFHI).
 
 ---
 
