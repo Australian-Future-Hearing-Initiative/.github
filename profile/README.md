@@ -15,9 +15,9 @@ For related context and perspectives connected to this project, you may find thi
 
 We have the follow repos
 
-| Repo  | Purpose                                       | Notes                             |
+| Repo     | Purpose                                       | Notes                             |
 | -------- | --------------------------------------------- | --------------------------------- |
-| **TBD** | TBD               | TBD |
+| [prism-ml](https://github.com/Australian-Future-Hearing-Initiative/prism-ml) | AFHI Prism machine learning code and data. | Links to OpenYAMNet and AHEAD-DS. |
 | **TBD**  | TBD | TBD             |
 | **TBD**   | TBD    | TBD             |
 
