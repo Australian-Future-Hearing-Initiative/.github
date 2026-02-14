@@ -17,7 +17,7 @@ We have the follow repos
 
 | Repo     | Purpose                                       | Notes                             |
 | -------- | --------------------------------------------- | --------------------------------- |
-| [prism-ml](https://github.com/Australian-Future-Hearing-Initiative/prism-ml) | AFHI Prism machine learning code and data. | Links to OpenYAMNet and AHEAD-DS. |
+| [prism-ml](https://github.com/Australian-Future-Hearing-Initiative/prism-ml) | AFHI Prism machine learning code and data. | Links to OpenYAMNet, AHEAD-DS and AuditoryHuM. |
 | **TBD**  | TBD | TBD             |
 | **TBD**   | TBD    | TBD             |
 
